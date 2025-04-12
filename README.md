@@ -61,9 +61,8 @@ I have worked on and posted solutions to various foundational topics, including 
 | 🌐 **Computer Networks (CN)** | [Computer Networks Implementation](https://github.com/DineshRam0109/CN) |
 | ☕ **Java** | [Java Code Solutions](https://github.com/DineshRam0109/Java) |
 
-These repositories contain code snippets, algorithms, and project-based solutions to the aforementioned topics, helping you to understand complex concepts and practical implementations.
-
 ---
+
 ### 📅 All-Time Contributions
 
 <p align="center">
@@ -71,6 +70,7 @@ These repositories contain code snippets, algorithms, and project-based solution
 </p>
 
 ---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -125,4 +125,3 @@ These repositories contain code snippets, algorithms, and project-based solution
 > _"Strive not to be a success, but rather to be of value." – Albert Einstein_
 
 ⭐ _Thanks for visiting my profile! Feel free to ⭐️ my repos and reach out for collaborations!_
- 

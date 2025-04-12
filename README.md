@@ -68,30 +68,38 @@ These repositories contain code snippets, algorithms, and project-based solution
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshRam0109&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshRam0109&layout=compact&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DineshRam0109&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshRam0109&layout=compact&theme=tokyonight&hide=html,css,scss&exclude_repo=github-readme-stats" width="48%" />
 </p>
-
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔥 Contribution Metrics
+
+| Metric | Count |
+|--------|-------|
+| **Total Commits** | ![Total Commits](https://img.shields.io/github/search/DineshRam0109/is%3Acommits?label=%20&style=flat) |
+| **Total Repositories** | 31 |
+| **Public Contributions** | ![Public Contributions](https://img.shields.io/github/search/DineshRam0109/is%3Apublic?label=%20&style=flat) |
+| **Total PRs** | ![Pull Requests](https://img.shields.io/github/search/DineshRam0109/is%3Apr?label=%20&style=flat) |
+| **Total Issues** | ![Issues](https://img.shields.io/github/search/DineshRam0109/is%3Aissue?label=%20&style=flat) |
+| **Stars Earned** | ![Stars](https://img.shields.io/github/stars/DineshRam0109?label=%20&style=flat) |
+
+---
+
+### 📅 All-Time Contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DineshRam0109&theme=gruvbox&no-frame=true&margin-w=15&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshRam0109&theme=tokyonight&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
-### 📊 Contribution Graph
+### 📊 Detailed Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshRam0109&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshRam0109&theme=react-dark&hide_border=true&area=true&custom_title=Overall%20Activity&show_icons=true" />
 </p>
-
-
----
-
 ### 📬 Connect with Me
 
 <p align="center">

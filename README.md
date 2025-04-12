@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Dinesh M</h1>
-<h3 align="center">💻 Aspiring Full Stack Developer | 🎯 Tech Enthusiast | 🚀 Always Learning</h3>
+<h3 align="center">💻 Aspiring Full Stack Developer | 🎯 Artificial Intelligence | 🚀 Data Visualisation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20cool%20projects;MERN%20%7C%20Vue%20%7C%20Python%20%7C%20Flask;Learning%20DSA%20and%20System%20Design;Code%20.%20Debug%20.%20Deploy%20.&center=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20cool%20projects;MERN%20%7C%20AIML%20%7C%20C++%20%7C%20;JAVA%20DSA%20and%20System%20DATA VISUALIZATION;Code%20.%20Debug%20.%20Deploy%20.&center=true&size=20" />
 </p>
 
 ---
@@ -10,21 +10,21 @@
 ### 🚀 About Me
 
 - 👨‍💻 Currently focused on **Full Stack Development** and **AI/ML Projects**
-- 🔍 Exploring **MERN stack**, **Flask**, **Vue.js**, and **Cloud Tools**
-- 📫 Reach me at **ddineah0@gmail.com**
-- 📎 [View My Resume](https://github.com/DineshRam0109/DineshRam0109/raw/main/Dinesh_M_Resume.pdf) <!-- Replace with actual raw link -->
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) <!-- Replace with actual portfolio link -->
+- 🔍 Exploring **MERN stack**, **Data Visualization**
+- 📫 Reach me at **dineshram0109@gmail.com**
+- 📎 [View My Resume](https://github.com/DineshRam0109/Resume/blob/main/Dinesh%20Ram%20A_Atoa%20Resume%20(1).pdf) <!-- Replace with actual raw link -->
+- 🌐 [Portfolio Website](https://dineshramresponsiveportfolio.vercel.app/) <!-- Replace with actual portfolio link -->
 
 ---
 
 ### 🧠 Tech Stack
 
 - 💻 Languages: `Java`, `C++`, `Python`, `JavaScript`
-- 🌐 Frontend: `HTML`, `CSS`, `React.js`, `Vue.js`, `Bootstrap`
+- 🌐 Frontend: `HTML`, `CSS`, `React.js`, `Vue.js`
 - 🖥️ Backend: `Node.js`, `Express`, `Flask`
 - 🛢️ Databases: `MySQL`, `MongoDB`
-- ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `XAMPP`, `Figma`, `Postman`
-- ☁️ Others: `JWT`, `REST API`, `AJAX`, `jQuery`, `API Integration`
+- ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `XAMPP`, `Postman`
+- ☁️ Others: `JWT`, `REST API`, `Tableau`
 
 ---
 
@@ -72,27 +72,16 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:ddineah0@gmail.com"><img src="https://img.shields.io/badge/Gmail-ddineah0@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:dineshram0109@gmail.com"><img src="https://img.shields.io/badge/Gmail-ddineah0@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/DineshRam0109"><img src="https://img.shields.io/badge/GitHub-DineshRam0109-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-### 🛠️ Setup & Contribution Instructions
-
-> ✅ **Add your resume PDF** to a repo (e.g., this one) and use the **raw link** for direct access.  
-> 🌐 **Replace the portfolio link** with your deployed portfolio website.  
-> 🎨 This version is compatible with **both light and dark GitHub themes**.
-
+#
 ---
 
-### 🌟 Optional Customizations (Let me know!)
 
-- 🧼 Want a **cleaner/minimal version**? I can trim it down!
-- 🖼️ Want to showcase **GIFs or screenshots** of your projects? I'll embed them for you!
-- ☀️ Prefer a **light theme version** or **light-colored badges**? I got you covered!
-
----
 
 > _"Strive not to be a success, but rather to be of value." – Albert Einstein_
 

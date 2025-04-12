@@ -2,7 +2,7 @@
 <h3 align="center">💻 Aspiring Full Stack Developer | 🎯 Artificial Intelligence | 🚀 Data Visualisation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20cool%20projects;MERN%20%7C%20AIML%20%7C%20C++%20%7C%20;JAVA%20DSA%20and%20System%20DATA VISUALIZATION;Code%20.%20Debug%20.%20Deploy%20.&center=true&size=20" />
+ <img src="https://readme-typing-svg.demolab.com/?lines=Building+cool+projects;MERN+Stack+Developer+🚀;AI%2FML+%7C+Data+Visualization+📊;Java+%7C+C%2B%2B+%7C+DSA+Mastery;Debug+%7C+Build+%7C+Deploy+%7C+Repeat+💻;&center=true&width=1000&height=50&size=22&pause=1000" />
 </p>
 
 ---
@@ -12,7 +12,12 @@
 - 👨‍💻 Currently focused on **Full Stack Development** and **AI/ML Projects**
 - 🔍 Exploring **MERN stack**, **Data Visualization**
 - 📫 Reach me at **dineshram0109@gmail.com**
-- 📎 [View My Resume]([https://github.com/DineshRam0109/Resume/blob/main/Dinesh%20Ram%20A_Atoa%20Resume%20(1).pdf](https://drive.google.com/file/d/12fA4abLWJksUCnHQZMssCMTZwobor4-z/view)) <!-- Replace with actual raw link -->
+- 🌐 [Portfolio Website](https://dineshramresponsiveportfolio.vercel.app/) <!-- Replace with actual portfolio link -->
+
+---
+
+### 📄 Resume  
+- 📎 [View My Resume](https://drive.google.com/file/d/12fA4abLWJksUCnHQZMssCMTZwobor4-z/view?usp=sharing)
 - 🌐 [Portfolio Website](https://dineshramresponsiveportfolio.vercel.app/) <!-- Replace with actual portfolio link -->
 
 ---
@@ -41,6 +46,22 @@
 | 🔐 [SecureAuth](https://github.com/DineshRam0109/secure-auth) | JWT-based secure user authentication system (Node.js) |
 | 📢 [NotifyX](https://github.com/DineshRam0109/NotifyX) | Real-time email/SMS alert system (Node.js, Express) |
 | 💳 [**GatePay**](https://github.com/DineshRam0109/gatepay) | Adaptive Payment Gateway for ERP (MERN, MySQL) |
+
+---
+
+### 📚 **Code Repositories - DBMS, OS, Embedded Systems, CN, Java**
+
+I have worked on and posted solutions to various foundational topics, including **Database Management Systems (DBMS)**, **Operating Systems (OS)**, **Embedded Systems**, **Computer Networks (CN)**, and **Java**. You can explore my code repositories in these domains, where I’ve implemented algorithms, solved problems, and tackled various practical issues. Check out the repositories below:
+
+| Topic | Repository Link |
+|-------|-----------------|
+| 🗄️ **DBMS** | [DBMS Algorithms & Implementation](https://github.com/DineshRam0109/DBMS) |
+| 🖥️ **Operating Systems (OS)** | [OS Concepts and Algorithms](https://github.com/DineshRam0109/OS) |
+| ⚙️ **Embedded Systems** | [Embedded Systems Projects](https://github.com/DineshRam0109/Embedded-Systems) |
+| 🌐 **Computer Networks (CN)** | [Computer Networks Implementation](https://github.com/DineshRam0109/CN) |
+| ☕ **Java** | [Java Code Solutions](https://github.com/DineshRam0109/Java) |
+
+These repositories contain code snippets, algorithms, and project-based solutions to the aforementioned topics, helping you to understand complex concepts and practical implementations.
 
 ---
 
@@ -78,12 +99,23 @@
 
 ---
 
-#
+### 🌱 My Current Learning Goals
+
+- 🤖 Mastering **Machine Learning** and **AI** algorithms
+- 🌍 Exploring **Data Science** and **Data Visualization** using `Tableau` & `Matplotlib`
+- 🔐 Working on advanced **Security** and **Authentication** techniques in Web Development
+- 🎮 Learning **Game Development** basics using **Unity** and **C#**
+
 ---
 
+### 🏅 Contributions & Milestones
 
+- 🚀 Contributed to **open-source** projects in areas like **AI/ML**, **Full Stack Development**, and **Security**.
+- 🏆 Actively participated in coding challenges and hackathons to improve skills in **Problem Solving** and **Data Structures & Algorithms**.
+- 🌟 Completed courses and certifications in **AI/ML**, **JavaScript**, **MERN Stack**, and **Data Visualization**.
+
+---
 
 > _"Strive not to be a success, but rather to be of value." – Albert Einstein_
 
 ⭐ _Thanks for visiting my profile! Feel free to ⭐️ my repos and reach out for collaborations!_
-

@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Dinesh M</h1>
+<h1 align="center">Hey 👋, I'm Dinesh Ram A</h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | 🎯 Artificial Intelligence | 🚀 Data Visualisation</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 👨‍💻 Currently focused on **Full Stack Development** and **AI/ML Projects**
 - 🔍 Exploring **MERN stack**, **Data Visualization**
 - 📫 Reach me at **dineshram0109@gmail.com**
-- 📎 [View My Resume](https://github.com/DineshRam0109/Resume/blob/main/Dinesh%20Ram%20A_Atoa%20Resume%20(1).pdf) <!-- Replace with actual raw link -->
+- 📎 [View My Resume]([https://github.com/DineshRam0109/Resume/blob/main/Dinesh%20Ram%20A_Atoa%20Resume%20(1).pdf](https://drive.google.com/file/d/12fA4abLWJksUCnHQZMssCMTZwobor4-z/view)) <!-- Replace with actual raw link -->
 - 🌐 [Portfolio Website](https://dineshramresponsiveportfolio.vercel.app/) <!-- Replace with actual portfolio link -->
 
 ---
@@ -72,7 +72,7 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:dineshram0109@gmail.com"><img src="https://img.shields.io/badge/Gmail-ddineah0@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:dineshram0109@gmail.com"><img src="https://img.shields.io/badge/Gmail-dineshram0109@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/DineshRam0109"><img src="https://img.shields.io/badge/GitHub-DineshRam0109-black?style=for-the-badge&logo=github"></a>
 </p>
 

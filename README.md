@@ -68,8 +68,8 @@ These repositories contain code snippets, algorithms, and project-based solution
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshRam0109&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshRam0109&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DineshRam0109&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshRam0109&layout=compact&theme=tokyonight&count_private=true" width="48%" />
 </p>
 
 ---
@@ -104,7 +104,6 @@ These repositories contain code snippets, algorithms, and project-based solution
 - 🤖 Mastering **Machine Learning** and **AI** algorithms
 - 🌍 Exploring **Data Science** and **Data Visualization** using `Tableau` & `Matplotlib`
 - 🔐 Working on advanced **Security** and **Authentication** techniques in Web Development
-- 🎮 Learning **Game Development** basics using **Unity** and **C#**
 
 ---
 
@@ -113,6 +112,7 @@ These repositories contain code snippets, algorithms, and project-based solution
 - 🚀 Contributed to **open-source** projects in areas like **AI/ML**, **Full Stack Development**, and **Security**.
 - 🏆 Actively participated in coding challenges and hackathons to improve skills in **Problem Solving** and **Data Structures & Algorithms**.
 - 🌟 Completed courses and certifications in **AI/ML**, **JavaScript**, **MERN Stack**, and **Data Visualization**.
+- 🎉 Overall, contributed **X** commits, **Y** pull requests, and **Z** repositories, including contributions across multiple coding domains like **DBMS**, **OS**, **Embedded Systems**, and **Java**.
 
 ---
 

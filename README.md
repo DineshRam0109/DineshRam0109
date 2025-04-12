@@ -24,12 +24,12 @@
 
 ### 🧠 Tech Stack
 
-- 💻 Languages: `Java`, `C++`, `Python`, `JavaScript`
-- 🌐 Frontend: `HTML`, `CSS`, `React.js`, `Vue.js`
-- 🖥️ Backend: `Node.js`, `Express`, `Flask`
-- 🛢️ Databases: `MySQL`, `MongoDB`
-- ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `XAMPP`, `Postman`
-- ☁️ Others: `JWT`, `REST API`, `Tableau`
+- 💻 Languages: Java, C++, Python, JavaScript
+- 🌐 Frontend: HTML, CSS, React.js, Vue.js
+- 🖥️ Backend: Node.js, Express, Flask
+- 🛢️ Databases: MySQL, MongoDB
+- ⚙️ Tools: Git, GitHub, VS Code, XAMPP, Postman
+- ☁️ Others: JWT, REST API, Tableau
 
 ---
 
@@ -64,29 +64,6 @@ I have worked on and posted solutions to various foundational topics, including 
 These repositories contain code snippets, algorithms, and project-based solutions to the aforementioned topics, helping you to understand complex concepts and practical implementations.
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshRam0109&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshRam0109&layout=compact&theme=tokyonight&hide=html,css,scss&exclude_repo=github-readme-stats" width="48%" />
-</p>
-
----
-
-### 🔥 Contribution Metrics
-
-| Metric | Count |
-|--------|-------|
-| **Total Commits** | ![Total Commits](https://img.shields.io/github/search/DineshRam0109/is%3Acommits?label=%20&style=flat) |
-| **Total Repositories** | 31 |
-| **Public Contributions** | ![Public Contributions](https://img.shields.io/github/search/DineshRam0109/is%3Apublic?label=%20&style=flat) |
-| **Total PRs** | ![Pull Requests](https://img.shields.io/github/search/DineshRam0109/is%3Apr?label=%20&style=flat) |
-| **Total Issues** | ![Issues](https://img.shields.io/github/search/DineshRam0109/is%3Aissue?label=%20&style=flat) |
-| **Stars Earned** | ![Stars](https://img.shields.io/github/stars/DineshRam0109?label=%20&style=flat) |
-
----
-
 ### 📅 All-Time Contributions
 
 <p align="center">
@@ -94,12 +71,31 @@ These repositories contain code snippets, algorithms, and project-based solution
 </p>
 
 ---
-
-### 📊 Detailed Activity Graph
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshRam0109&theme=react-dark&hide_border=true&area=true&custom_title=Overall%20Activity&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DineshRam0109&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshRam0109&layout=compact&theme=tokyonight&count_private=true" width="48%" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DineshRam0109&theme=gruvbox&no-frame=true&margin-w=15&column=6" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshRam0109&theme=react-dark" />
+</p>
+
+---
+
 ### 📬 Connect with Me
 
 <p align="center">
@@ -112,7 +108,7 @@ These repositories contain code snippets, algorithms, and project-based solution
 ### 🌱 My Current Learning Goals
 
 - 🤖 Mastering **Machine Learning** and **AI** algorithms
-- 🌍 Exploring **Data Science** and **Data Visualization** using `Tableau` & `Matplotlib`
+- 🌍 Exploring **Data Science** and **Data Visualization** using Tableau & Matplotlib
 - 🔐 Working on advanced **Security** and **Authentication** techniques in Web Development
 
 ---

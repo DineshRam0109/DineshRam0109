@@ -72,6 +72,7 @@ These repositories contain code snippets, algorithms, and project-based solution
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshRam0109&layout=compact&theme=tokyonight&count_private=true" width="48%" />
 </p>
 
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -87,6 +88,7 @@ These repositories contain code snippets, algorithms, and project-based solution
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshRam0109&theme=react-dark" />
 </p>
+
 
 ---
 

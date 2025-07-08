@@ -3,7 +3,7 @@
 <h3 align="center">💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 📊 Data Visualization Explorer</h3>
 
 <p align="center">
-🚀 Building cool projects · MERN Stack Developer · AI/ML | Data Visualization · Java | C++ | DSA Mastery · Debug | Build | Deploy | Repeat 💻
+🚀 Building cool projects · MERN Stack Developer · AI/ML | Data Visualization · Java | C++ | DSA Mastery · Code | Debug | Build | Deploy | Repeat 💻
 </p>
 
 
@@ -40,7 +40,7 @@
 | Project                                                                            | Description                                                |
 | ---------------------------------------------------------------------------------  | ---------------------------------------------------------- |
 | 🔗 [**HireConnect**](https://github.com/DineshRam0109/Dinesh-Job-Portal)          | A MERN-based job portal for recruiters and job seekers     |
-| 🍽️ [**FlavorFinder**](https://github.com/DineshRam0109/flavor-finder)             | Search dishes by name and explore YouTube recipes (Vue.js) |
+| 🍽️ [**FlavorFinder**](https://github.com/DineshRam0109/FlavorFinder)              | Search dishes by name and explore YouTube recipes (Vue.js) |
 | 🏠 [**Homely Hub**](https://github.com/DineshRam0109/homely-hub)                  | A platform to book accommodations (MERN Stack)             |
 | 🩺 [**MediMate**](https://github.com/DineshRam0109/Medimate)                      | Predicts diseases and provides health tips (AI/ML + Flask) |
 | 📚 [**QuizEase**](https://github.com/DineshRam0109/QuizEase)                      | Generate MCQs from documents with a click (AI/ML + Flask)  |

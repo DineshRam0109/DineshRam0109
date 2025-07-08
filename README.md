@@ -3,8 +3,9 @@
 <h3 align="center">💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 📊 Data Visualization Explorer</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Building+cool+projects;MERN+Stack+Developer+🚀;AI%2FML+%7C+Data+Visualization+📊;Java+%7C+C%2B%2B+%7C+DSA+Mastery;Debug+%7C+Build+%7C+Deploy+%7C+Repeat+💻;&center=true&width=1000&height=50&size=22&pause=1000" />
+🚀 Building cool projects · MERN Stack Developer · AI/ML | Data Visualization · Java | C++ | DSA Mastery · Debug | Build | Deploy | Repeat 💻
 </p>
+
 
 ---
 

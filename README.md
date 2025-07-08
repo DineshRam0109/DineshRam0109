@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 * 👨‍💻 Passionate about **Full Stack Development**, **AI/ML**, and solving real-world problems with code
-* 🌱 Currently exploring the **MERN Stack**, **Flask**, and **Data Visualization** tools
+* 🌱 Currently exploring the **MERN Stack** and **Data Visualization** tools
 * 📫 Reach me at: **[dineshram0109@gmail.com](mailto:dineshram0109@gmail.com)**
 * 🌐 [Portfolio Website](https://dineshramresponsiveportfolio.vercel.app/)
 
@@ -111,7 +111,7 @@
 
 * 🤖 Deep dive into **AI/ML** algorithms
 * 📊 Advanced **Data Visualization** using Tableau & Python
-* 🔐 Strengthening **Security** in Full Stack applications
+* 🔐 Strengthening in Full Stack applications
 
 ---
 
@@ -120,7 +120,7 @@
 * 🚀 Contributed to multiple open-source and full stack projects
 * 🏆 Participated in coding contests and hackathons
 * 📜 Completed certifications in **AI/ML**, **MERN**, and **Data Viz**
-* 💡 Strong academic foundation in DBMS, OS, CN, Embedded, and Java
+* 💡 Strong academic foundation in DBMS, OS, Oops and Java
 
 ---
 

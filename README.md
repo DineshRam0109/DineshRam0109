@@ -19,7 +19,7 @@
 
 ### 📄 Resume
 
-* 📎 [View My Resume](https://drive.google.com/file/d/12fA4abLWJksUCnHQZMssCMTZwobor4-z/view?usp=sharing)
+* 📎 [View My Resume](https://drive.google.com/file/d/1L2BnabMxvDwb7NbFTcZ7WJx0o2Z0HRaO/view?usp=sharing)
 
 ---
 
@@ -36,15 +36,15 @@
 
 ### 💼 Featured Projects
 
-| Project                                                                           | Description                                                |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 🔗 [**HireConnect**](https://github.com/DineshRam0109/HireConnect)                | A MERN-based job portal for recruiters and job seekers     |
-| 🍽️ [**FlavorFinder**](https://github.com/DineshRam0109/flavor-finder)            | Search dishes by name and explore YouTube recipes (Vue.js) |
+| Project                                                                            | Description                                                |
+| ---------------------------------------------------------------------------------  | ---------------------------------------------------------- |
+| 🔗 [**HireConnect**](https://github.com/DineshRam0109/Dinesh-Job-Portal)          | A MERN-based job portal for recruiters and job seekers     |
+| 🍽️ [**FlavorFinder**](https://github.com/DineshRam0109/flavor-finder)             | Search dishes by name and explore YouTube recipes (Vue.js) |
 | 🏠 [**Homely Hub**](https://github.com/DineshRam0109/homely-hub)                  | A platform to book accommodations (MERN Stack)             |
-| 🩺 [**MediMate**](https://github.com/DineshRam0109/medical-recommendation-system) | Predicts diseases and provides health tips (AI/ML + Flask) |
+| 🩺 [**MediMate**](https://github.com/DineshRam0109/Medimate)                      | Predicts diseases and provides health tips (AI/ML + Flask) |
 | 📚 [**QuizEase**](https://github.com/DineshRam0109/QuizEase)                      | Generate MCQs from documents with a click (AI/ML + Flask)  |
 | 🗣️ [**Voxify**](https://github.com/DineshRam0109/Voxify)                         | Real-time translation and speech-based chat app            |
-| 🔐 [**SecureAuth**](https://github.com/DineshRam0109/secure-auth)                 | JWT-based secure login system                              |
+| 🔐 [**SecureAuth**](https://github.com/DineshRam0109/JWT-Authentication-for-login-form)                 | JWT-based secure login system                              |
 | 📢 [**NotifyX**](https://github.com/DineshRam0109/NotifyX)                        | Email/SMS alerts using Node.js                             |
 | 💳 [**GatePay**](https://github.com/DineshRam0109/gatepay)                        | ERP-integrated payment gateway (MERN + MySQL)              |
 
@@ -56,9 +56,12 @@
 | ------------------------- | ----------------------------------------------------------------------------------- |
 | 🗄️ **DBMS**              | [Database Algorithms & Queries](https://github.com/DineshRam0109/DBMS)              |
 | 🖥️ **Operating Systems** | [OS Concepts & Scheduling](https://github.com/DineshRam0109/OS)                     |
-| ⚙️ **Embedded Systems**   | [8051, IoT & Real-Time Examples](https://github.com/DineshRam0109/Embedded-Systems) |
+| ☕ **Oops**                | [OOP Projects, DSA & Design Patterns](https://github.com/DineshRam0109/OOPS-c-)        |
+| ⚙️ **Embedded Systems**   | [8051, IoT & Real-Time Examples](https://github.com/DineshRam0109/Embedded-System) |
+| ⚙️ **Cryptography**   | [Cryptography Techniques](https://github.com/DineshRam0109/Cryptography-Techniques) |
 | 🌐 **Computer Networks**  | [Protocols, Simulations & CN Models](https://github.com/DineshRam0109/CN)           |
 | ☕ **Java**                | [OOP Projects, DSA & Design Patterns](https://github.com/DineshRam0109/Java)        |
+
 
 ---
 

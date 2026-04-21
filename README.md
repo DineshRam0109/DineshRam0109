@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey...., I'm Dinesh Ram A</h1>
+<h1 align="center">Hey.... I'm Dinesh Ram A</h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast </h3>
 
 <p align="center">

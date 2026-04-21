@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋, I'm Dinesh Ram A</h1>
+<h1 align="center">Hey...., I'm Dinesh Ram A</h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast </h3>
 
 <p align="center">
@@ -108,14 +108,5 @@
 
 
 
----
 
-### 🏅 Highlights & Milestones
-
-* 🚀 Contributed to multiple open-source and full stack projects
-* 🏆 Participated in coding contests and hackathons
-* 📜 Completed certifications in **AI/ML**, **MERN**, and **Data Viz**
-* 💡 Strong academic foundation in DBMS, OS, Oops, Java, C++
-
----
 

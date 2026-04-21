@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Dinesh Ram A</h1>
-<h3 align="center">💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 📊 Data Visualization Explorer</h3>
+<h3 align="center">💻 Aspiring Full Stack Developer | 🤖 AI Enthusiast </h3>
 
 <p align="center">
 🚀 Building cool projects · MERN Stack Developer · AI/ML | Data Visualization · Java | C++ | DSA Mastery · Code | Debug | Build | Deploy | Repeat 💻
@@ -12,7 +12,6 @@
 ### 🚀 About Me
 
 * 👨‍💻 Passionate about **Full Stack Development**, **AI/ML**, and solving real-world problems with code
-* 🌱 Currently exploring the **MERN Stack** and **Data Visualization** tools
 * 📫 Reach me at: **[dineshram0109@gmail.com](mailto:dineshram0109@gmail.com)**
 * 🌐 [Portfolio Website](https://dineshramresponsiveportfolio.vercel.app/)
 
@@ -20,18 +19,17 @@
 
 ### 📄 Resume
 
-* 📎 [View My Resume](https://drive.google.com/file/d/1L2BnabMxvDwb7NbFTcZ7WJx0o2Z0HRaO/view?usp=sharing)
+* 📎 [View My Resume](https://drive.google.com/file/d/1VfUbFbEN1GGZcuz7WohTSii4vXF1b8Lk/view?usp=sharing)
 
 ---
 
 ### 🧠 Tech Stack
 
 * 💻 **Languages**: Java, C++, Python, JavaScript
-* 🌐 **Frontend**: HTML, CSS, React.js, Vue.js
-* 🖥️ **Backend**: Node.js, Express, Flask
+* 🌐 **Frontend**: HTML, CSS, React.js
+* 🖥️ **Backend**: Node.js, Express
 * 🛢️ **Databases**: MySQL, MongoDB
-* ⚙️ **Tools**: Git, GitHub, VS Code, XAMPP, Postman
-* ☁️ **Other Skills**: JWT, REST APIs, Tableau, Vercel
+* ⚙️ **Tools**: Git, GitHub, VS Code, Postman
 
 ---
 
@@ -108,11 +106,7 @@
 
 ---
 
-### 🌱 Current Learning Goals
 
-* 🤖 Deep dive into **AI/ML** algorithms
-* 📊 Advanced **Data Visualization** using Tableau & Python
-* 🔐 Strengthening in Full Stack applications
 
 ---
 
